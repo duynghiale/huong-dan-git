@@ -5,3 +5,4 @@ Them code cho commit C2
 Them code cho commit C3
 
 Them code cho commit C4
+Them code cho commit B2
